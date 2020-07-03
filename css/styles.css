@@ -1,0 +1,107 @@
+html {
+    position: relative;
+    height: 100%;
+}
+
+.align-center{
+    text-align: center;
+}
+
+.align-right{
+    text-align: right;
+}
+
+
+.align-top{
+    text-align: top;
+}
+
+.border-1-px{
+    border: 0px dotted gray;
+}
+
+.border-top-bottom-1-px {
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+}
+
+.border-none {
+    border:none;
+}
+
+.carousel-item > img {
+    height: calc(100vh - 50px);
+    object-fit: fill;
+}
+
+
+#divMenuBar > ul > li > a {
+    color: #fff;
+}
+
+.footer{
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 180px;
+    line-height: 90px;
+    background-color: lightgray;
+    margin: 50px 0px 0px 0px;
+}
+
+.height-low {
+    height: 60px;
+}
+
+.img-thumb {
+    width: 50px;
+    height: 50px;
+}
+
+.img-tiny{
+    width: 30px;
+}
+
+.img-small {
+    width: 70px;
+    margin: 0px 5px 0px 5px;
+}
+
+.img-medium {
+    width: 100px;
+    margin: 0px 5px 0px 5px;
+}
+
+.padding-left-right-low {
+    padding: 0px 10px 0px 10px;
+}
+
+.table-500-px {
+    height: 500px;
+    
+}
+
+.width-60-pc {
+    width: 60%;
+}
+
+.width-600-px {
+    width: 700px;
+}
+
+.width-20-px {
+    width: 20%;
+}
+
+.width-350-px {
+    width: 350px;
+}
+
+.width-100-pc {
+    width: 100%;
+}
+
+.vertical-align-top{
+    vertical-align: top;
+}
